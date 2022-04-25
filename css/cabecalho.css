@@ -1,5 +1,5 @@
 .cabecalho {
-    color: #FFF;
+    color: var(--branco);
 
     width: 100%;
 
@@ -12,7 +12,7 @@
     padding-top: .75rem;
     padding-bottom: .75rem;
 
-    border-bottom: 1px solid #103D4A;
+    border-bottom: 1px solid var(--borda-cabecalho-mobile);
 
     position: absolute;
 }
@@ -25,11 +25,6 @@
     text-align: center;
 }
 
-.cabecalho__link a {
-    text-decoration: none;
-}
-
-
 .cabecalho__link {
     font-size: 1.1rem;
     display: inline-block;
@@ -39,8 +34,12 @@
     margin-left: .7rem;
 }
 
+.cabecalho__link a {
+    text-decoration: none;
+}
+
 
 .cabecalho__link a:hover{
     transition: all 1s;
-    color: #808080;
+    color: var(--cinza-escuro);
 }
