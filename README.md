@@ -1,4 +1,4 @@
-#Layouts Responsivos: trabalhando com layouts mobile
+# Layouts Responsivos: trabalhando com layouts mobile
 
 
 - Entenda o processo de desenvolvimento de páginas web.
