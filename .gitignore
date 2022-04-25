@@ -1,5 +1,5 @@
 # ignore all logs
 
-*cores.txt
+*.cores.txt
 
-*textos.txt
+*.textos.txt
