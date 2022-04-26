@@ -43,3 +43,13 @@
     transition: all 1s;
     color: var(--cinza-escuro);
 }
+
+/* Media para desktop */
+
+@media screen and (min-width:1024px){
+    .cabecalho{
+        flex-direction: row;
+        justify-content: space-between;
+        border: none;
+    }
+}
