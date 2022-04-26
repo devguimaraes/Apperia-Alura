@@ -1,6 +1,6 @@
 .planos {
     background-color: var(--cinza-claro);
-    
+
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
@@ -103,4 +103,14 @@
 
 .cartao__botao--mega {
     border-color: var(--planos-cartao-mega);
+}
+
+
+@media (min-width: 768px) {
+    .cartao {
+        max-width: 400px;
+        text-align: center;
+    }
+
+
 }
