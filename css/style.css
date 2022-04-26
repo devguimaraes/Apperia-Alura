@@ -1,3 +1,5 @@
+/* VARIAVEIS */
+
 :root{
 --branco:#FFF;
 --azul-claro:#DFE3E5;
@@ -45,9 +47,17 @@ body{
     border-radius: 5px;
 }
 
+/* MEDIA QUERIES */
 
-
+/* TODO APRENDER COMO COLOCAR ISSO NUM ARQUIVO EXTERNO É CHAMAR NA PÁGINA PRINCIPAL */
 @media (max-width: 379px) {
+    .chamada__titulo {
+        padding-top: 2rem;
+    }
+    
+}
+
+@media (max-width: 390px) {
     .chamada__titulo {
         padding-top: 2rem;
     }
