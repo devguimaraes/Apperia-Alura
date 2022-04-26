@@ -53,3 +53,11 @@ body{
     }
     
 }
+
+
+@media (max-width: 390px) {
+    .chamada__titulo {
+        padding-top: 2rem;
+    }
+    
+}
