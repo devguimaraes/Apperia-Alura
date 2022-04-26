@@ -49,7 +49,6 @@ body{
 
 /* MEDIA QUERIES */
 
-/* TODO APRENDER COMO COLOCAR ISSO NUM ARQUIVO EXTERNO É CHAMAR NA PÁGINA PRINCIPAL */
 @media (max-width: 379px) {
     .chamada__titulo {
         padding-top: 2rem;
