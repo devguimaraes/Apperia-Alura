@@ -1,5 +1,6 @@
-# Layouts Responsivos: trabalhando com layouts mobile
+#Apperia - Alura
 
+Projeto da Plataforma Alura que visa solidificar os conceitos de responsividade e mobile first. 
 
 - Entenda o processo de desenvolvimento de páginas web.
 - Melhore a manutenção de códigos com variáveis CSS.
