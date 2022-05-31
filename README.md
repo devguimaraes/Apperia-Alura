@@ -1,4 +1,6 @@
-#Apperia - Alura
+# Apperia - Alura
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Projeto da Plataforma Alura que visa solidificar os conceitos de responsividade e mobile first. 
 
